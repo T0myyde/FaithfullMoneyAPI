@@ -1,0 +1,6 @@
+name: Moneyapi
+version: '${project.version}'
+main: ch.tom.faithful.moneyapi.Moneyapi
+api-version: 1.19
+authors: [ T0myy ]
+description: This is a Money API for the Server Faithful
